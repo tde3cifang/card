@@ -1,0 +1,2 @@
+# card
+solve card games
